@@ -13,7 +13,7 @@ I'm particularly interested in **AI Backend Engineering, System Design, and Soft
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python · C++ · C# · PHP · TypeScript · JavaScript · SQL
+**Languages:** Python · C++ · C# · PHP · TypeScript · JavaScript . Dart . Common Lisp · SQL
 
 **Backend:** FastAPI · ASP.NET Core · Laravel · REST APIs
 
